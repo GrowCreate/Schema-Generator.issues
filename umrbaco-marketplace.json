@@ -1,0 +1,63 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "Title": "Growcreate Schema Generator",
+  "Category": "Developer Tools",
+  "AlternateCategory": "Editor Tools",
+  "Description": "Schema Generator for Umbraco to create and render schema objects. Map document type properties to schema properties and allow editors to populate additional schemas.",
+  "AuthorDetails": {
+    "Name": "Growcreate",
+    "Description": "We started small and scrappy back in 2012, but now we’re a team that delivers scalable solutions to businesses worldwide. And we’re just getting started.",
+    "Url": "https://growcreate.co.uk/",
+    "ImageUrl": "https://i.imgur.com/WASOHON.png",
+    "Contributors": [
+      {
+        "Name": "James Dimmer",
+        "Url": "https://www.linkedin.com/in/james-dimmer-853901145/"
+      }
+    ]
+  },
+  "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/GrowCreate/Schema-Generator.issues/issues",
+  "PackageType": "Package",
+  "Screenshots": [
+    {
+      "ImageUrl": "https://imgur.com/a/QNyjV3B",
+      "Caption": "Document Type mapping"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/hvRY8YT",
+      "Caption": "Mapping properties"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/PWkzNwY",
+      "Caption": "Mapping nested properties"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/8FjWkA4",
+      "Caption": "Nested property selection"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/b7spB23",
+      "Caption": "Nested picker selection"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/LS9MPDD",
+      "Caption": "Schema property editor"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/gwjJ4wt",
+      "Caption": "Schema property editor - Schema selection"
+    },
+    {
+      "ImageUrl": "https://imgur.com/a/YgB4FiM",
+      "Caption": "Schema property editor - Schema population"
+    }
+  ],
+  "RelatedPackages": [
+    {
+      "PackageId": "Growcreate.AiToolkit",
+      "GroupTitle": "Other packages by Growcreate"
+    }
+  ],
+  "Tags": [ "umbraco", "schema generator", "schema", "generator", "json-ld", "linked data", "developer", "editor", "tools", "backoffice", "seo", "aeo", "geo", "property editor" ]
+}
