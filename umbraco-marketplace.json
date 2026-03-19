@@ -21,35 +21,35 @@
   "PackageType": "Package",
   "Screenshots": [
     {
-      "ImageUrl": "https://imgur.com/a/QNyjV3B",
+      "ImageUrl": "https://i.imgur.com/vtebamy.png",
       "Caption": "Document Type mapping"
     },
     {
-      "ImageUrl": "https://imgur.com/a/hvRY8YT",
+      "ImageUrl": "https://i.imgur.com/fmk6CzO.png",
       "Caption": "Mapping properties"
     },
     {
-      "ImageUrl": "https://imgur.com/a/PWkzNwY",
+      "ImageUrl": "https://i.imgur.com/kShQ0UH.png",
       "Caption": "Mapping nested properties"
     },
     {
-      "ImageUrl": "https://imgur.com/a/8FjWkA4",
+      "ImageUrl": "https://i.imgur.com/TgnELD9.png",
       "Caption": "Nested property selection"
     },
     {
-      "ImageUrl": "https://imgur.com/a/b7spB23",
+      "ImageUrl": "https://i.imgur.com/Y9w4uSv.png",
       "Caption": "Nested picker selection"
     },
     {
-      "ImageUrl": "https://imgur.com/a/LS9MPDD",
+      "ImageUrl": "https://i.imgur.com/HPUoRPw.png",
       "Caption": "Schema property editor"
     },
     {
-      "ImageUrl": "https://imgur.com/a/gwjJ4wt",
+      "ImageUrl": "https://i.imgur.com/41A2e9l.png",
       "Caption": "Schema property editor - Schema selection"
     },
     {
-      "ImageUrl": "https://imgur.com/a/YgB4FiM",
+      "ImageUrl": "https://i.imgur.com/rv1tst9.png",
       "Caption": "Schema property editor - Schema population"
     }
   ],
