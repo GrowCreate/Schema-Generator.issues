@@ -1,0 +1,37 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "Title": "Growcreate Schema Generator Deploy Addon",
+  "Category": "Developer Tools",
+  "AlternateCategory": "Editor Tools",
+  "Description": "Deploy addon for the Growcreate Schema Generator for Umbraco to create and render schema objects. Adds a new handler for syncing schema mappings.",
+  "AuthorDetails": {
+    "Name": "Growcreate",
+    "Description": "We started small and scrappy back in 2012, but now we’re a team that delivers scalable solutions to businesses worldwide. And we’re just getting started.",
+    "Url": "https://growcreate.co.uk/",
+    "ImageUrl": "https://i.imgur.com/WASOHON.png",
+    "Contributors": [
+      {
+        "Name": "James Dimmer",
+        "Url": "https://www.linkedin.com/in/james-dimmer-853901145/"
+      }
+    ]
+  },
+  "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/GrowCreate/Schema-Generator.issues/issues",
+  "PackageType": "Package",
+  "RelatedPackages": [
+    {
+      "PackageId": "Growcreate.SchemaGenerator",
+      "GroupTitle": "Growcreate Schema Generator packages"
+    },
+    {
+      "PackageId": "Growcreate.SchemaGenerator.uSyncAddon",
+      "GroupTitle": "Growcreate Schema Generator packages"
+    },
+    {
+      "PackageId": "Growcreate.AiToolkit",
+      "GroupTitle": "Other packages by Growcreate"
+    }
+  ],
+  "Tags": [ "umbraco", "schema generator", "schema", "generator", "json-ld", "linked data", "developer", "editor", "tools", "backoffice", "seo", "aeo", "geo", "property editor" ]
+}

@@ -9,6 +9,8 @@ assignees: ''
 
 **Which Schema Generator version are you using? (Please write the *exact* version, example: 17.0.0)**
 
+**Are you using any of the Schema Generator addons? (Please write the addon name and the *exact* version, example: 17.0.0)**
+
 **Which Umbraco version are you using? (Please write the *exact* version, example: 17.2.0)**
 
 **Describe the bug**
